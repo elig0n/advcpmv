@@ -1,5 +1,7 @@
 ## Advanced Copy ##
 
+*advcpmv-0.7-8.25.patch is tested to be good with coreutils 8.30*
+
 Advanced Copy is a mod for the GNU cp and GNU mv tools which adds a progress
 bar and provides some info on what's going on. It was written by Florian Zwicke
 and released under the GPL.
